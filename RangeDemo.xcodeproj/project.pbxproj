@@ -22,6 +22,7 @@
 		20A64E2F21E386D4003D5728 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20A64E3221E386D4003D5728 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20A64E3421E386D4003D5728 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20A64E3A21E386FB003D5728 /* RangePlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RangePlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		20A64E1C21E386D2003D5728 = {
 			isa = PBXGroup;
 			children = (
+				20A64E3A21E386FB003D5728 /* RangePlayground.playground */,
 				20A64E2721E386D2003D5728 /* RangeDemo */,
 				20A64E2621E386D2003D5728 /* Products */,
 			);
